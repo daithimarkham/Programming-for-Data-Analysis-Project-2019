@@ -7,12 +7,15 @@
 # Topic: Create a Synthesized Data-Set.
 
 
-Create a data set by simulating a real-world phenomenon of your choosing. Then, rather than collect data related to the phenomenon, you should model and synthesize such data using the Python sub package, Numpy.random.
+Create a data set by simulating a real-world phenomenon of your choosing. Then, rather than collect data related to the phenomenon, you should model and synthesize such data using the Python sub package, Numpy.random. The phenomenom we will be using to create our sythesized dataset is **Unplanned Absenteeism** from the workplace. 
 
-Jupyter Notebook, and how to use one for this project.
-For this assignment we will be using a Jupyter notebook to write the functions within numpy.random and explain our code.
 
-How to get started and run Jupyter Notebook.
+
+### How to get started and run Jupyter Notebook.
+
+- Jupyter Notebook, and how to use one for this project.
+
+For this project we will be using a Jupyter notebook for our simulated dataset, using numpy.random to generate our data.
 
 • Create a new repository on Github, name it, initialize a ReadMe, Add.gitignore-Python, license, and click on clone/download and copy the link.
 
@@ -38,4 +41,4 @@ How to get started and run Jupyter Notebook.
 
 • Repository, ReadMe and Gitignore created.
 
-Please find in the Jupyter Notebook file, a simulated dataset based on a phenomena, will is absenteeism in this case. 
+**Please find in the Jupyter Notebook file, a simulated dataset based on a phenomena, will is absenteeism in this case.**
