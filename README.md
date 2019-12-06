@@ -1,13 +1,12 @@
 # David Markham
-# Programming for Data Analysis
-# Project 2019 Semester Two
+# Programming for Data Analysis 2019
 # G.M.I.T. 
 # Lecturer: Brian McGinley 
 
 # Topic: Create a Synthesized Data-Set.
 
 
-Create a data set by simulating a real-world phenomenon of your choosing. Then, rather than collect data related to the phenomenon, you should model and synthesize such data using the Python sub package, Numpy.random. The phenomenom we will be using to create our sythesized dataset is **Unplanned Absenteeism** from the workplace. 
+Create a data set by simulating a real-world phenomenon of your choosing, can be something of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesize such data using the Python sub package, Numpy.random. This python package will generate random  The phenomenom we will be using to create our sythesized dataset is **Unplanned Absenteeism** from the workplace. 
 
 
 
@@ -19,13 +18,13 @@ For this project we will be using a Jupyter notebook for our simulated dataset, 
 
 • Create a new repository on Github, name it, initialize a ReadMe, Add.gitignore-Python, license, and click on clone/download and copy the link.
 
-• Go to your command line, cd desktop, and type: git clone, space and right click. Creates folder you just created on Github.
+• Go to your command line, cd desktop, and type: git clone, space and right click. Creates a folder you just created on Github.
 
-• CD into folder, type Jupyter Notebook, which is older but more reliable, press enter, opens a browser, click on Notebook Python 3.
+• CD into folder, type Jupyter Notebook, which is older but more reliable version, press enter, opens a browser, click on Notebook Python 3.
 
 • Rename file.
 
-• Type in some code and hold down shift and hit enter to display the code. Save!
+• Type in some code in the cell, hold down shift and hit enter to display the code, and save! If you want to use markdown, click on the outer left part of the cell, escape and m, this will change the cell to markdown. 
 
 • Shut down browser. (When you want to re-use or open up Jupyter again, re-start the kernel and run all cells, previous code might not work otherwise, which you had entered.)
 
@@ -41,4 +40,4 @@ For this project we will be using a Jupyter notebook for our simulated dataset, 
 
 • Repository, ReadMe and Gitignore created.
 
-**Please find in the Jupyter Notebook file, a simulated dataset based on a phenomena, will is absenteeism in this case.**
+**Please find in the Jupyter Notebook file, a simulated dataset based on a phenomena, which is based on absenteeism from the workplace.**
