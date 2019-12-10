@@ -14,7 +14,7 @@ Create a data set by simulating a real-world phenomenon of your choosing, can be
 
 - Jupyter Notebook, and how to use one for this project.
 
-For this project we will be using a Jupyter notebook for our simulated dataset, using numpy.random to generate our data.
+For this project we will be using a Jupyter notebook for our simulated dataset, using numpy.random to generate our data. You will also need to download Anaconda, and the terminal which we will be using is going to be Commander.
 
 • Create a new repository on Github, name it, initialize a ReadMe, Add.gitignore-Python, license, and click on clone/download and copy the link.
 
