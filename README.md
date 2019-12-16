@@ -6,7 +6,9 @@
 # Topic: Create a Synthesized Data-Set. 
 
 
-Create a data set by simulating a real-world phenomenon of your choosing, can be something of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesize such data using the Python sub package, Numpy.random. This python package will generate random  The phenomenom we will be using to create our sythesized dataset is **Unplanned Absenteeism** from the workplace. 
+Create a data set by simulating a real-world phenomenon of your choosing, can be something of interest to you in your personal or professional life. Then, rather than collect data related to the phenomenon, you should model and synthesize such data using the Python sub package, Numpy.random. This python package will generate random data.
+
+The phenomenom we will be using to create our sythesized dataset is **Unplanned Absenteeism** from the workplace. 
 
 
 ![Title](Images/Readme.png) Source(Bureau of Labor Stats, 2015) 
